@@ -20,6 +20,8 @@ Visit http://localhost:3000/home/show_cookies ***for each branch*** to ensure th
 * Enter git branch -a to see both the branches from your terminal, and checkout read-6-0-cookies-with-5-2-Stable-checkout and run the server.
 
 * Don't forget to switch branches/rails-versions correctly in the rails repo.
+
+* To enable use_cookies_with_metadata in Rails 6 do a rails app:update and uncomment the config or change load_defaults to 6.0 in application.config.
   
   
   
