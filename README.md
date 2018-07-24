@@ -17,6 +17,10 @@ Visit http://localhost:3000/home/show_cookies ***for each branch*** to ensure th
 * Make sure you download the branch that adds use_cookies_with_metadata support to Rails. You can find the PR here:
   https://github.com/rails/rails/pull/32937
   
+* Enter git branch -a to see both the branches from your terminal, and checkout read-6-0-cookies-with-5-2-Stable-checkout and run the server.
+
+* Don't forget to switch branches/rails-versions correctly in the rails repo.
+  
   
   
   Let me know what you think...
